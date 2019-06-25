@@ -21,5 +21,4 @@ def breed
   @breed
 end
 
-dog.new()
 end
