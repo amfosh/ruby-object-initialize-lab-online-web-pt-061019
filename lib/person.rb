@@ -4,4 +4,5 @@ def initialize(name)
   @name = name
 end
 
-def name=(p_name)
+def name=(name)
+  
